@@ -1,0 +1,159 @@
+{
+    "config": {
+        "url": "https:\/\/api.deepseek.com\/v1\/chat\/completions",
+        "api": "sk-9167011d9cca455f8b25401328d31f6a",
+        "model": "deepseek-chat",
+        "voice_characters": [
+            {
+                "type": "推荐",
+                "character_id": "lucy-voice-laibixiaoxin",
+                "character_name": "小新"
+            },
+            {
+                "type": "推荐",
+                "character_id": "lucy-voice-houge",
+                "character_name": "猴哥"
+            },
+            {
+                "type": "推荐",
+                "character_id": "lucy-voice-silang",
+                "character_name": "四郎"
+            },
+            {
+                "type": "推荐",
+                "character_id": "lucy-voice-guangdong-f1",
+                "character_name": "东北老妹儿"
+            },
+            {
+                "type": "推荐",
+                "character_id": "lucy-voice-guangxi-m1",
+                "character_name": "广西大表哥"
+            },
+            {
+                "type": "推荐",
+                "character_id": "lucy-voice-daji",
+                "character_name": "妲己"
+            },
+            {
+                "type": "推荐",
+                "character_id": "lucy-voice-lizeyan",
+                "character_name": "霸道总裁"
+            },
+            {
+                "type": "推荐",
+                "character_id": "lucy-voice-suxinjiejie",
+                "character_name": "酥心御姐"
+            },
+            {
+                "type": "搞怪",
+                "character_id": "lucy-voice-laibixiaoxin",
+                "character_name": "小新"
+            },
+            {
+                "type": "搞怪",
+                "character_id": "lucy-voice-houge",
+                "character_name": "猴哥"
+            },
+            {
+                "type": "搞怪",
+                "character_id": "lucy-voice-guangdong-f1",
+                "character_name": "东北老妹儿"
+            },
+            {
+                "type": "搞怪",
+                "character_id": "lucy-voice-guangxi-m1",
+                "character_name": "广西大表哥"
+            },
+            {
+                "type": "搞怪",
+                "character_id": "lucy-voice-m8",
+                "character_name": "说书先生"
+            },
+            {
+                "type": "搞怪",
+                "character_id": "lucy-voice-male1",
+                "character_name": "憨憨小弟"
+            },
+            {
+                "type": "搞怪",
+                "character_id": "lucy-voice-male3",
+                "character_name": "憨厚老哥"
+            },
+            {
+                "type": "古风",
+                "character_id": "lucy-voice-daji",
+                "character_name": "妲己"
+            },
+            {
+                "type": "古风",
+                "character_id": "lucy-voice-silang",
+                "character_name": "四郎"
+            },
+            {
+                "type": "古风",
+                "character_id": "lucy-voice-lvbu",
+                "character_name": "吕布"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-lizeyan",
+                "character_name": "霸道总裁"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-suxinjiejie",
+                "character_name": "酥心御姐"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-xueling",
+                "character_name": "元气少女"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-f37",
+                "character_name": "文艺少女"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-male2",
+                "character_name": "磁性大叔"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-female1",
+                "character_name": "邻家小妹"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-m14",
+                "character_name": "低沉男声"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-f38",
+                "character_name": "傲娇少女"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-m101",
+                "character_name": "爹系男友"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-female2",
+                "character_name": "暖心姐姐"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-f36",
+                "character_name": "温柔妹妹"
+            },
+            {
+                "type": "现代",
+                "character_id": "lucy-voice-f34",
+                "character_name": "书香少女"
+            }
+        ]
+    }
+}

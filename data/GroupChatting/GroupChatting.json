@@ -1,0 +1,23 @@
+{
+    "config": {
+        "group_config": {
+            "1046993610": {
+                "enabled": true,
+                "note": "管理员添加"
+            },
+            "1017767274": {
+                "enabled": false,
+                "note": "自动添加，默认不监听"
+            },
+            "375157283": {
+                "enabled": true,
+                "note": "管理员添加"
+            },
+            "745202453": {
+                "enabled": false,
+                "note": "自动添加，默认不监听"
+            }
+        },
+        "greeting": "你好"
+    }
+}
